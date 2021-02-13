@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="add">Add</string>
+    <string name="start_from">From: </string>
+    <string name="to">To</string>
+    <string name="delete">Delete</string>
+    <string name="back">back</string>
+</resources>
